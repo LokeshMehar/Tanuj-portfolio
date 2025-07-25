@@ -36,7 +36,7 @@ const CSCoreProficiencyCard = () => (
           </li>
           <li>
             <span className="font-bold text-yellow-400">ABV-IIITM Gwalior</span>
-            <span className="text-green-400 font-semibold ml-1">CGPA: 8.00</span>
+            <span className="text-green-400 font-semibold ml-1">CGPA: 8.27</span>
           </li>
           <li>
             Core subjects: <span className="text-cyan-300 font-medium">DSA, OOP, DBMS, OS, Networks, COA</span>

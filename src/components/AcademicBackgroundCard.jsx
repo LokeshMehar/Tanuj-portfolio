@@ -27,7 +27,7 @@ const AcademicBackgroundCard = () => (
         <ul className="list-disc list-inside text-[14px] text-gray-100 space-y-2 pl-2">
           <li className="leading-relaxed">
             Qualified <span className="font-bold text-blue-400">GATE (CS/IT)</span> in 3rd year with 
-            <span className="font-bold text-yellow-300 ml-1">All India Rank under 10,000</span>
+            <span className="font-bold text-yellow-300 ml-1">All India Rank around 1600</span>
           </li>
           <li className="leading-relaxed">
             Cleared <span className="font-bold text-green-400">JEE Advanced & JEE Main</span> for undergraduate admission

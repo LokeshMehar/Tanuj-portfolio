@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { VerticalTimelineElement } from 'react-vertical-timeline-component';
 
-const GitHubCard = ({ contributionCount = 702 }) => (
+const GitHubCard = ({ contributionCount = 120 }) => (
   <VerticalTimelineElement
     contentStyle={{
       background: 'rgba(147, 51, 234, 0.1)',

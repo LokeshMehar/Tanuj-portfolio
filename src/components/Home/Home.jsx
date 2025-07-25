@@ -33,7 +33,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I&#39;m
-                <strong className="main-name"> LOKESH MEHAR</strong>
+                <strong className="main-name"> Tanuj Jay</strong>
               </h1>
 
               <div className="pl-[50px] text-left text-fuchsia-400 pb-6">
